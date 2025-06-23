@@ -1,0 +1,20 @@
+{
+  "app\\explore\\page.tsx -> @/components/explore/leak-table": {
+    "id": "app\\explore\\page.tsx -> @/components/explore/leak-table",
+    "files": [
+      "static/chunks/_app-pages-browser_components_explore_leak-table_tsx.js"
+    ]
+  },
+  "app\\leaderboard\\page.tsx -> @/components/leaderboard/provider-chart": {
+    "id": "app\\leaderboard\\page.tsx -> @/components/leaderboard/provider-chart",
+    "files": [
+      "static/chunks/_app-pages-browser_components_leaderboard_provider-chart_tsx.js"
+    ]
+  },
+  "node_modules\\next\\dist\\client\\components\\react-dev-overlay\\utils\\use-websocket.js -> @vercel/turbopack-ecmascript-runtime/browser/dev/hmr-client/hmr-client.ts": {
+    "id": "node_modules\\next\\dist\\client\\components\\react-dev-overlay\\utils\\use-websocket.js -> @vercel/turbopack-ecmascript-runtime/browser/dev/hmr-client/hmr-client.ts",
+    "files": [
+      "static/chunks/_app-pages-browser_node_modules_next_dist_client_dev_noop-turbopack-hmr_js.js"
+    ]
+  }
+}
